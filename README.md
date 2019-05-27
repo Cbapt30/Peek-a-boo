@@ -1,8 +1,8 @@
-# Calculator Project
+# Project Name
 
-#### This website will add inputted numbers together, May 21, 2019
+#### This website will, Month Day, Year
 
-#### Be **Celia Baptiste**
+#### By **Celia Baptiste**
 
 ## Description
 
